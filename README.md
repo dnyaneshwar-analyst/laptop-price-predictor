@@ -1,3 +1,14 @@
+---
+title: Laptop Price Predictor
+emoji: 💻
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.39.0"
+app_file: app.py
+pinned: false
+---
+
 # Laptop Price Predictor
 
 Predicts laptop prices from specifications (brand, CPU, GPU, RAM, storage,
